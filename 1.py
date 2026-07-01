@@ -1,2 +1,1 @@
-hello my friend
-
+print('hello world!')
